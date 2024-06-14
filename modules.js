@@ -18,8 +18,8 @@ class App {
   render() {
     const user = getUser();
     console.log(user);
-    document.getElementById('root').innerHTML = `
-      <div>${user.name} works for ${user.company}</div>
+    /*document.getElementById('root').innerHTML = `
+      <div>${user.name} works for ${user.company}</div>*/
     `
   }
 }
