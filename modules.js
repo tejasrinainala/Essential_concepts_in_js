@@ -25,3 +25,9 @@ class App {
 }
 
 new App();
+
+
+
+
+//solution
+{name: 'Clementine Bauch', company: 'Romaguera-Jacobson'}
