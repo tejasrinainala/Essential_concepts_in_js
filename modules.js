@@ -7,7 +7,7 @@
 // Don't forget to call new App() in the end.
 
 // Challenge stub code: 
-import getUser from 'https://github.com/tejasrinainala/Essential_concepts_in_js/blob/main/getUser.js';  //solution
+import getUser from 'getUser.js';  //solution
 
 class App {
   constructor() {
